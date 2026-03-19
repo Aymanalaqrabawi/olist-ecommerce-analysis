@@ -31,7 +31,6 @@ E-Commerce dataset using BigQuery, SQL, and Power BI.
 - `vw_monthly_revenue` — Monthly sales trend
 - `vw_top_categories` — Top performing categories
 - `vw_delivery_performance` — Delivery analysis by state
-- `vw_rfm_segments` — Customer segmentation
 - `vw_yoy_growth` — Year-over-year comparison
 
 ## Dataset
