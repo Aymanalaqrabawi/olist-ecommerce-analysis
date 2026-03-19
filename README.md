@@ -14,7 +14,7 @@ E-Commerce dataset using BigQuery, SQL, and Power BI.
 ## Business Recommendations
 1. Open new warehouses in high late-rate regions
 2. Focus marketing budget on Top 3 categories
-3. Launch Q4 campaigns to offset seasonal drop
+3.  Conducting various campaigns  to offset seasonal drop
 
 ## Tools & Technologies
 | Tool | Usage |
