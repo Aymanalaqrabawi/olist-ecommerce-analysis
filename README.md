@@ -20,7 +20,7 @@ E-Commerce dataset using BigQuery, SQL, and Power BI.
 | Tool | Usage |
 |------|-------|
 | BigQuery | Data storage + SQL analysis |
-| SQL | 5 analytical views + RFM segmentation |
+| SQL | 5 analytical views|
 | Power BI | Dashboard + DAX measures |
 | DAX | KPIs + YoY calculations |
 
